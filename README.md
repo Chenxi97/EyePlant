@@ -7,3 +7,6 @@ Hope you enjoy this game and have fun!
 
 ### How to run this game
 Just run main.py. You may need to install some dependency libraries.
+
+### Thanks 
+All art resources in this project are implemented by my classmates.Thanks for their efforts.
