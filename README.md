@@ -10,3 +10,6 @@ Just run main.py. You may need to install some dependency libraries.
 
 ### Thanks 
 All art resources in this project are implemented by my classmates.Thanks for their efforts.
+<a href="https://github.com/leafsun">
+​    <img src="https://avatars0.githubusercontent.com/u/54317639?s=400&v=4" width="50px">
+</a>
