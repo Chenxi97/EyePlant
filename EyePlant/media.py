@@ -55,3 +55,7 @@ def main_theme():
     # 播放
     pygame.mixer.music.play(-1, 0.0)
     pygame.mixer.music.set_volume(0.5)
+
+
+def stop_theme():
+    pygame.mixer.music.stop()
